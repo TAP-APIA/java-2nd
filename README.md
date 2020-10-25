@@ -86,6 +86,6 @@ while (true) {
         }
 ```
 ### 六、实验结果
-![实验运行截图](https://github.com/GM-01/JavaExperiment-2/blob/main/ALOJ%400622PWO%5B5N2%60%25RF6RS.png)
+![实验运行截图](https://github.com/TAP-APIA/java-2nd/blob/main/()U%60KICNFHHZB_XZ%25YO(%5DA0.png)
 ### 七、实验感想
 ####  本次实验，让我理解了继承的应用方法，同时对复杂逻辑在JAVA中如何实现这一问题有了答案。
